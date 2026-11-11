@@ -1,0 +1,1 @@
+# host-staticweb-in-s3-by-GHA
